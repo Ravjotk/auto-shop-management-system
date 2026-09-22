@@ -30,3 +30,16 @@ li {
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
 }
+
+.sidebar {
+  background-color: #1a1a1a;
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+.sidebar h2 {
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+
