@@ -10,7 +10,7 @@ function App() {
 
       <h3>Today's Overview</h3>
 
-      <ul>
+      <ul className="dashboard-grid">
         <li>Vehicles in Shop: 0</li>
         <li>Completed Repairs: 0</li>
         <li>Outstanding Invoices: 0</li>
