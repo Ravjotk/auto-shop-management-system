@@ -3,6 +3,16 @@ import './App.css'
 function App() {
   return (
     <div>
+      <nav className="sidebar">
+  <h2>Akal Auto</h2>
+  <p>Dashboard</p>
+  <p>Customers</p>
+  <p>Vehicles</p>
+  <p>Repair Orders</p>
+  <p>Invoices</p>
+  <p>Employees</p>
+  <p>Finances</p>
+</nav>g
       <h1>Auto Shop Management System</h1>
 
       <h2>Dashboard</h2>
