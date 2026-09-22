@@ -43,3 +43,13 @@ li {
   margin-bottom: 25px;
 }
 
+.sidebar p {
+  padding: 12px;
+  margin: 5px 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.sidebar p:hover {
+  background-color: #333333;
+}
